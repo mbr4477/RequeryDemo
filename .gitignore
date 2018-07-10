@@ -61,3 +61,4 @@ build/tmp/compileJava/
 build/tmp/kapt/main/kotlinGenerated/
 build/tmp/kapt/test/
 build/tmp/kapt3/classes/
+*.db
